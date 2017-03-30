@@ -9,8 +9,6 @@ This pattern should NOT be used when:
 
 ![Empty State pattern](img/empty-state-html.png)
 
-## Example
-
-The empty state pattern is most often used in conjunction with one of the content views.  
+The empty state pattern is most often used in conjunction with one of the content views ([List View](http://www.patternfly.org/pattern-library/content-views/list-view/), [Table View](http://www.patternfly.org/pattern-library/content-views/table-view/), or [Card View](http://www.patternfly.org/pattern-library/content-views/card-view/).  Here the pattern is shown as it might appear in acontent view.
 
 ![Empty State in context](img/card-view-empty.png)
