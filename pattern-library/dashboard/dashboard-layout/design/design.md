@@ -7,3 +7,5 @@
   1. **Background:** Use a grey background color (#f5f5f5) for the dashboard page.
 
   1. **Refresh Action** (optional): If the dashboard needs a Refresh action so that the user can manually refresh, place it on the right of the Dashboard Title Panel.
+
+  4. **Something Else** This does something else.
